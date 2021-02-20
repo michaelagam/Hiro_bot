@@ -12,7 +12,7 @@ const {
    waChatKey,
    mentionedJid,
    processTime,
-} = require('@adiwajshing/baileys');
+} = require('@michael/agam');
 const qrcode = require("qrcode-terminal") 
 const moment = require("moment-timezone") 
 const fs = require("fs") 
@@ -49,7 +49,7 @@ mess = {
 				wait: '*「 WAIT 」 LRF-BOT Sedang Dalam proses*'
 }
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6289503740700@s.whatsapp.net"] 
+const ownerNumber = ["+6282217590187@s.whatsapp.net"] 
 /************************************/
 
        
